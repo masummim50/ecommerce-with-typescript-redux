@@ -1,0 +1,20 @@
+.header__component{
+  .top-header{
+    svg{
+      color:$primary;
+      margin-right: 6px;
+    }
+  }
+  .middle-header{
+    .brand-logo{
+      width:100%;
+      max-width: 160px;
+    }
+  }
+  .nav-bar{
+    .text-end a{
+      color:white;
+      display:inline-block;
+    }
+  }
+}
